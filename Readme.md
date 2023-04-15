@@ -1,11 +1,11 @@
 ## m3uextractor
 
-Actual release 0.6
+Actual release 1.0
 
 A simple program to convert .m3u file in something useful to pass to external software.
 
 This script convert standard .m3u file to a list of urls with the filename from the tvg-name field appended to the url and with file suffix from original link.  
-The output file can be processed by software like the wonderful **jdownloader** (https://jdownloader.org)
+The output file can be processed by other software
 
 Future improvements:
 - additional output formats
